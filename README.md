@@ -1,4 +1,10 @@
-### Hi there 👋 myself SHARDUL BIRJE
+## Hi there 👋 myself SHARDUL BIRJE
+
+### A passionate Developer 
+
+- Explores Financial stuff in free time :dollar:
+
+
 ##### :hammer: This page is under construction :hammer:
 <!--
 **shardul-b/shardul-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
